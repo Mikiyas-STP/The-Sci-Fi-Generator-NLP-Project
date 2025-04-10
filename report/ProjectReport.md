@@ -5,6 +5,7 @@
 - **Code Repository**: [GitHub Link to Project] (Replace with your actual GitHub URL)
 - **Dataset**: Extracted from Project Gutenberg – “A Journey in Other Worlds” by John Jacob Astor (public domain sci-fi text).
 - **Data Access**: Retrieved using Python's `requests` library and cleaned using `re` and `nltk`.
+
 ### Ethical Statement
 
 - The text used for training is in the public domain and contains no personal or sensitive information.
@@ -33,8 +34,8 @@
 - Train with multiple sci-fi authors to reduce repetition.
 - Explore more advanced models like GPT-2 or Transformer-based models.
 - Add an interface or creative visualization.
-### Additional Considerations
 
+### Additional Considerations
 - This project could be extended into a creative writing tool or collaborative poetry bot.
 - Could combine LSTM-based generation with a classifier to guide tone or genre (comedy, horror, etc).
 - Markov Chains or Transformers could be used to compare generation styles.

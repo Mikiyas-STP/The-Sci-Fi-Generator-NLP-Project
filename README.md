@@ -1,6 +1,6 @@
 # 🪐 Sci-Fi Story Generator (NLP Final Project)
 
-This is a creative NLP project that uses an RNN (LSTM) model to generate sci-fi story text based on classic literature. Built for the "Natural Language Processing for Creatives" course in the Peckham DAZ Programme 2024/25.
+This is a creative NLP project that uses an RNN (LSTM) model to generate sci-fi story text based on classic literature. Built for the "Natural Language Processing for Creatives" course in the Peckham DAZ Programme 2025.
 
 ## 🔧 How It Works
 - Loads and cleans a public domain sci-fi text
